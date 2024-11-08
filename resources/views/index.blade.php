@@ -32,7 +32,7 @@
     <link rel="stylesheet" href="{{ asset('css/aos.css') }}">
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 
-    <title>Minimal Free HTML Template by Untree.co</title>
+    <title>Hacker Outlook</title>
   </head>
 
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="100">
